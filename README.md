@@ -3,6 +3,7 @@ In this project, I analyzed the Amazon sale report data, which showed the sellin
 
 <br>
 Libraries Required
+<br>
 1. Numpy
 2. Pandas
 3. Matplotlib
